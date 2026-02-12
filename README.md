@@ -1,127 +1,145 @@
-#Aplicação Web – Pesquisa, Informação e Ética
+# Aplicação Web – Pesquisa, Informação e Ética
 
-Curso: Assistente de Logística
+## Curso: Assistente de Logística
 
-Sobre o Projeto
+---
 
-Esta aplicação web foi desenvolvida como ferramenta de apoio pedagógico para o ensino dos conteúdos relacionados à pesquisa, seleção de informações e ética no uso de fontes.
+## Visão Geral
 
-Seu propósito é desenvolver nos alunos a capacidade de:
+Esta aplicação web foi desenvolvida como ferramenta de apoio ao processo de ensino e aprendizagem dos conteúdos relacionados à pesquisa, seleção de informações e ética no uso de fontes.
 
-Buscar informações de forma adequada;
+A proposta da aplicação é desenvolver nos alunos competências essenciais para o ambiente acadêmico e profissional, promovendo autonomia, pensamento crítico e responsabilidade no uso da informação.
 
-Avaliar a confiabilidade das fontes;
+---
 
-Utilizar conteúdos de maneira ética e responsável;
+## Objetivos de Aprendizagem
 
-Produzir sínteses claras e organizadas.
+Ao utilizar a aplicação, espera-se que o aluno seja capaz de:
 
-A aplicação é responsiva e pode ser utilizada em dispositivos móveis.
+* Diferenciar pesquisa bibliográfica e pesquisa eletrônica
+* Identificar critérios de confiabilidade das fontes
+* Compreender a importância da ética na pesquisa
+* Produzir síntese clara e objetiva de informações
+* Realizar citações básicas de forma correta
 
-Conteúdos Abordados
-1. Pesquisa Bibliográfica e Eletrônica
+---
 
-A aplicação apresenta a diferença entre:
+## Estrutura de Conteúdo
 
-Pesquisa Bibliográfica
+---
 
-Livros
+### 1. Pesquisa Bibliográfica e Eletrônica
 
-Apostilas
+A aplicação trabalha a distinção entre dois tipos principais de pesquisa:
 
-Materiais impressos
+#### Pesquisa Bibliográfica
 
-Conteúdos fornecidos em aula
+Realizada em:
 
-Utilizada principalmente para:
+* Livros
+* Apostilas
+* Materiais impressos
+* Conteúdos fornecidos em aula
 
-Aprender conceitos
+Indicada para:
 
-Aprofundar conhecimentos
+* Compreensão aprofundada de conceitos
+* Estudo estruturado e organizado
 
-Pesquisa Eletrônica
+#### Pesquisa Eletrônica
 
-Sites
+Realizada em:
 
-Portais educacionais
+* Sites
+* Portais educacionais
+* Artigos online
 
-Artigos online
+Caracteriza-se por:
 
-Destaca que, embora seja rápida e prática, exige cuidado, pois nem toda informação disponível na internet é correta ou confiável.
+* Rapidez no acesso
+* Maior variedade de fontes
+* Necessidade de avaliação crítica da confiabilidade
 
-2. Seleção de Fontes Confiáveis
+---
 
-Antes de utilizar uma informação, é necessário verificar sua confiabilidade.
+### 2. Seleção de Fontes Confiáveis
 
-Uma fonte confiável geralmente:
+A aplicação orienta o aluno a verificar:
 
-Identifica o autor
-
-Apresenta data de publicação
-
-Utiliza linguagem clara
-
-Pertence a instituição reconhecida
+* Identificação do autor
+* Data de publicação
+* Clareza e coerência da linguagem
+* Credibilidade da instituição responsável
 
 Evita-se utilizar:
 
-Sites sem identificação
+* Conteúdos sem autoria
+* Informações sem data
+* Sites sem identificação institucional
+* Publicações baseadas apenas em opinião
 
-Textos sem autoria
+---
 
-Conteúdos sem data
+### 3. Ética na Pesquisa
 
-Publicações baseadas apenas em opinião
+A aplicação reforça que pesquisar envolve responsabilidade.
 
-3. Ética na Pesquisa
+São abordados os seguintes princípios:
 
-Pesquisar exige responsabilidade.
+* Não copiar textos prontos sem citar a fonte
+* Não apresentar ideias de terceiros como próprias
+* Respeitar a produção intelectual
 
-A aplicação reforça que:
+> Pesquisar não é copiar.
+> Pesquisar é compreender e explicar com suas próprias palavras.
 
-Não se deve copiar textos sem indicar a fonte;
+---
 
-Ideias de terceiros não devem ser apresentadas como próprias;
+### 4. Síntese de Informações
 
-É necessário respeitar a produção intelectual de outros autores.
+O aluno aprende a:
 
-Pesquisar significa compreender o conteúdo e explicá-lo com suas próprias palavras.
+* Identificar ideias principais
+* Organizar o conteúdo de forma clara
+* Produzir textos objetivos
+* Evitar excesso de informações irrelevantes
 
-4. Síntese de Informações
+Síntese é transformar um texto longo em um resumo claro e estruturado.
 
-Ao pesquisar, é comum encontrar grande volume de informações.
-Nem todas precisam ser utilizadas.
+---
 
-Síntese significa:
+### 5. Citação e Referências Básicas
 
-Identificar as ideias principais;
+A aplicação apresenta formas simples de indicar a origem das informações utilizadas.
 
-Organizar as informações de forma clara;
+Exemplo:
 
-Produzir textos objetivos;
+> “De acordo com a apostila do curso de Assistente de Logística...”
 
-Evitar excesso de conteúdo irrelevante.
+O foco não é a norma técnica complexa, mas a honestidade e a transparência.
 
-5. Citação e Referências Básicas
+---
 
-Sempre que uma informação for utilizada, sua origem deve ser indicada.
+## Propósito Educacional
 
-Exemplo de citação simples:
+A aplicação foi criada para:
 
-“De acordo com a apostila do curso de Assistente de Logística...”
+* Desenvolver autonomia na pesquisa
+* Estimular pensamento crítico
+* Promover responsabilidade no uso da informação
+* Preparar o aluno para decisões fundamentadas no ambiente profissional
 
-No final do texto, deve-se informar a fonte consultada, de forma clara e honesta.
+---
 
-Não é necessário utilizar normas complexas, mas é fundamental manter transparência.
+## Aspectos Técnicos
 
-Objetivo Educacional
+* Desenvolvida em HTML, Bootstrap e JavaScript
+* Interface responsiva para dispositivos móveis
+* Utilização em ambiente educacional
+* Estrutura leve e acessível
 
-A aplicação foi desenvolvida para:
+---
 
-Estimular o pensamento crítico;
+## Público-Alvo
 
-Desenvolver autonomia na pesquisa;
-
-Promover responsabilidade no uso da informação;
-
-Preparar o aluno para o ambiente profissional, onde decisões devem ser baseadas em dados confiáveis.
+Estudantes do curso de Assistente de Logística e demais turmas em formação inicial que necessitem desenvolver competências relacionadas à pesquisa, interpretação e produção textual.
